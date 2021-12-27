@@ -42,7 +42,7 @@ subgraph
 |      |                                                              |      |
 |      |                                                              |      |
 
-## blog
+## blog/other
 
 | title                                                        | site                                                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -51,4 +51,5 @@ subgraph
 | 如何应用“安全知识图谱”识别内部威胁                           | https://www.freebuf.com/column/230841.html                   |
 | Detecting and Predicting Malicious Access in Enterprise Networks Using the Louvain Community Detection Algorithm | https://www.silverfort.com/blog/detecting-and-predicting-malicious-access-in-enterprise-networks-using-the-louvain-community-detection-algorithm/ |
 | 绿盟科技安全知识图谱技术白皮书                               |                                                              |
+|VulGraph||
 
